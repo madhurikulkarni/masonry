@@ -1,6 +1,6 @@
 $(() {
-    let wrapper=$('.card-columns'),
-        items=$('.card'),
+    let wrapper=$(".card-columns"),
+        items=$(".card"),
         cols = Number(wrapper.css("column-count")),
         out = [],
         col = 0;
